@@ -1,2 +1,7 @@
-# Devops
-This is for practicing purpose
+class java
+{
+
+public static void main(String{} args)
+System.out.println("Hello World");
+
+}
